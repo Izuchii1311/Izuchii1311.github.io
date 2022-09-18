@@ -1,0 +1,45 @@
+.slider h3, 
+.slider h5, 
+.clients h3{
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.parallax-container {
+    height: 20%;
+}
+
+.parallax img {
+    filter: grayscale(1);
+    opacity: 0.6 !important;
+}
+
+.clients img {
+    max-width: 100px;
+    margin: 20px 0px;
+    filter: drop-shadow(5px 4px 0px rgba(0,0,0,0.4));
+}
+
+section {
+    padding: 20px 0px;
+}
+
+.portofolio .container .row .col{
+    padding: 10px 10px;
+}
+
+footer {
+    padding: 2px 0px;
+}
+
+footer p {
+    font-size: 16px !important;
+}
+
+div.nav-wrapper a.brand-logo {
+    font-size: 24px;
+}
+
+ul li.nav-izuchii {
+    font-size: 20px;
+    margin-left: 35px;
+}
